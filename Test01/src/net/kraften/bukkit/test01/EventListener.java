@@ -1,4 +1,9 @@
 package net.kraften.bukkit.test01;
 
-public class EventListener {
+import org.bukkit.event.Listener;
+
+public class EventListener implements Listener {
+
+
+
 }

@@ -1,0 +1,8 @@
+name: Kraften-Test-01
+version: 1.0
+author: Oliver Kraft
+main: net.kraften.bukkit.test01.Main
+#commands:
+#  kit:
+#    description: Your description
+#    usage: /kit
