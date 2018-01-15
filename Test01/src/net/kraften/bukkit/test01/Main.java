@@ -9,7 +9,7 @@ public class Main extends JavaPlugin {
         //Fired when the server enables the plugin
 
         System.out.println("[Kraften-Testing] Starting");
-
+        getServer().getPluginManager().registerEvents(new EventListener(), this);
 
 
     }
